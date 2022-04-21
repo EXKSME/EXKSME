@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EXKSME
+- 👀 I’m interested in Design & Program
+- 🌱 I’m currently learning Selenium, 
+- 💞️ I’m building my own web via www.exkillsme.com
+- 📫 Contact me via steve.haixiangxu@gmail.com
